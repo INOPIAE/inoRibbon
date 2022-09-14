@@ -18,7 +18,6 @@ Danach wird ein Ordner customUI angelegt und eine customUI14.xml dort abgelegt.
 Beispiel für die Datei customUI14.xml
 
 `<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
-
 	<ribbon>
 		<tabs>
 			<tab id="customTab" label="Contoso" insertAfterMso="TabHome">
@@ -47,4 +46,4 @@ Zu erst bietet sich das kostenfreie Werkzeug OfficeCustomUIEditor von Microsoft 
 
 Ein Nachfolger ist Office RibbonX Editor https://github.com/fernandreu/office-ribbonx-editor
 
-Als Excellösung bietet sich der RibbonX Visual Designer für 32bit an. https://www.andypope.info/vba/ribboneditor.htm
+Als Excellösung bietet sich der RibbonX Visual Designer an. https://www.andypope.info/vba/ribboneditor_2010.htm
