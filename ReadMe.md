@@ -9,7 +9,7 @@ Das Erstellen der customUI14.xml Datei und den Verweis in der Datei '.rels' kann
 ## Der manuelle Weg
 Die Office-Datei umbenennen auf zip.
 
-Aus der Zip-Datei mus die Datei  \\_rels\\.rels exthrahiert werden.
+Aus der Zip-Datei muss die Datei  \\_rels\\.rels exthrahiert werden.
 
 Anschließned muss dieser Verweis am Ende der Auflistung eingefügt werden.
 ```
@@ -51,8 +51,8 @@ Zum Ende wird die Zip-Date wieder auf das Original umbenannt,
 
 # Mit Werkzeugen
 
-Zuerst bietet sich das kostenfreie Werkzeug OfficeCustomUIEditor von Microsoft an. https://github.com/OfficeDev/office-custom-ui-editor.
+Zunächst bietet sich das kostenfreie Werkzeug OfficeCustomUIEditor von Microsoft an. https://github.com/OfficeDev/office-custom-ui-editor.
 
-Ein Nachfolger ist Office RibbonX Editor https://github.com/fernandreu/office-ribbonx-editor
+Ein Nachfolger ist der Office RibbonX Editor https://github.com/fernandreu/office-ribbonx-editor
 
 Als Excellösung bietet sich der RibbonX Visual Designer an. https://www.andypope.info/vba/ribboneditor_2010.htm 
